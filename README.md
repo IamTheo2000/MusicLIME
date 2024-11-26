@@ -1,7 +1,21 @@
 # MusicLIME: Explainable Multimodal Music Understanding
 
 This repository contains the code implementation for the paper **"MusicLIME: Explainable Multimodal Music Understanding"**. It provides all necessary resources and guidance for recreating our experiments and exploring explainable AI (XAI) in the context of music understanding.
+The paper can be accessed on [arXiv](https://arxiv.org/abs/2409.10496).
 
+If you use this work, please cite it as follows:
+
+```bibtex
+@misc{sotirou2024musiclimeexplainablemultimodalmusic,
+      title={MusicLIME: Explainable Multimodal Music Understanding}, 
+      author={Theodoros Sotirou and Vassilis Lyberatos and Orfeas Menis Mastromichalakis and Giorgos Stamou},
+      year={2024},
+      eprint={2409.10496},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2409.10496}, 
+}
+```
 ## Repository Structure
 
 The repository is organized into four main folders:
