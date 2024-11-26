@@ -57,7 +57,6 @@ In this folder, we present the outcomes of our experiments.
 
 - **Model metrics**: Performance metrics for the models we trained.
 - **Global Aggregations**: Results of applying global aggregation on local explanations.
-- **Cherry-picked Examples**: Selected local explanations showcasing the explainability features of the models.
 
 ### Contact
 For any questions or issues regarding the code, please feel free to open an issue or reach out to us at theodorossotirou@gmail.com
