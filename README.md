@@ -1,4 +1,3 @@
-<img src="https://github.com/user-attachments/assets/17728824-8713-4627-8d0f-03588df02f83" alt="cropmusiclime_logo_final" width="200">
 # MusicLIME: Explainable Multimodal Music Understanding
 
 This repository contains the code implementation for the paper **"MusicLIME: Explainable Multimodal Music Understanding"**. It provides all necessary resources and guidance for recreating our experiments and exploring explainable AI (XAI) in the context of music understanding.
